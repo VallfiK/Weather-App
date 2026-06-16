@@ -11,3 +11,5 @@ coverage
 *.log
 tsconfig.tsbuildinfo
 docs
+docs/superpowers
+.superpowers/brainstorm
