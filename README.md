@@ -22,7 +22,7 @@ npm run dev
 
 ## Архитектура
 
-Слои: `presentation` / `application` / `infrastructure` / `domain`. Подробнее — `docs/superpowers/specs/2026-06-15-weather-app-design.md`.
+Слои: `presentation` / `application` / `infrastructure` / `domain`.
 
 ## Стек
 
